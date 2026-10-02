@@ -1,0 +1,20 @@
+{
+  "name": "zc-skill-opp-pool",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "description": "机会库搜岗 — portable MCP + Skill",
+  "bin": {
+    "zc-skill-opp-pool": "./stdio_mcp_server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "skill",
+    "career",
+    "opp-pool"
+  ]
+}
